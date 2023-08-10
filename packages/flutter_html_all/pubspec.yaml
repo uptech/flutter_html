@@ -14,36 +14,36 @@ dependencies:
   html: '>=0.15.0 <1.0.0'
   flutter_html: 
     git: 
-      url: git@github.com:uptech/flutter_html.git
+      url: https://github.com/uptech/flutter_html.git
       ref: allow-srcdoc-and-point-packages-to-uptech-repo
   flutter_html_audio: 
     git: 
-      url: git@github.com:uptech/flutter_html.git
+      url: https://github.com/uptech/flutter_html.git
       ref: allow-srcdoc-and-point-packages-to-uptech-repo
       path: packages/flutter_html_audio
   flutter_html_iframe: 
     git:
-      url: git@github.com:uptech/flutter_html.git
+      url: https://github.com/uptech/flutter_html.git
       path: packages/flutter_html_iframe
       ref: allow-srcdoc-and-point-packages-to-uptech-repo
   flutter_html_math: 
     git:
-      url: git@github.com:uptech/flutter_html.git
+      url: https://github.com/uptech/flutter_html.git
       path: packages/flutter_html_math
       ref: allow-srcdoc-and-point-packages-to-uptech-repo  
   flutter_html_svg: 
     git:
-      url: git@github.com:uptech/flutter_html.git
+      url: https://github.com/uptech/flutter_html.git
       path: packages/flutter_html_svg
       ref: allow-srcdoc-and-point-packages-to-uptech-repo  
   flutter_html_table: 
     git:
-      url: git@github.com:uptech/flutter_html.git
+      url: https://github.com/uptech/flutter_html.git
       path: packages/flutter_html_table
       ref: allow-srcdoc-and-point-packages-to-uptech-repo  
   flutter_html_video: 
     git:
-      url: git@github.com:uptech/flutter_html.git
+      url: https://github.com/uptech/flutter_html.git
       path: packages/flutter_html_video
       ref: allow-srcdoc-and-point-packages-to-uptech-repo
 
