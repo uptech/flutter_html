@@ -15,7 +15,7 @@ dependencies:
   flutter_html: 
     git: 
       url: git@github.com:uptech/flutter_html.git
-      ref: allow-srcdoc  
+      ref: allow-srcdoc-and-point-packages-to-uptech-repo  
   video_player: '>=2.2.8 <3.0.0'
   chewie: '>=1.1.0 <2.0.0'
 

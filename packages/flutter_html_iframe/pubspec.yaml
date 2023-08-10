@@ -15,7 +15,8 @@ dependencies:
   flutter_html: 
     git: 
       url: git@github.com:uptech/flutter_html.git
-      ref: allow-srcdoc  webview_flutter: '>=4.0.0 <5.0.0'
+      ref: allow-srcdoc-and-point-packages-to-uptech-repo  
+  webview_flutter: '>=4.0.0 <5.0.0'
 
 dev_dependencies:
   flutter_test:

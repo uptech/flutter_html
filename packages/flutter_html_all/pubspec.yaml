@@ -15,32 +15,37 @@ dependencies:
   flutter_html: 
     git: 
       url: git@github.com:uptech/flutter_html.git
-      ref: allow-srcdoc
+      ref: allow-srcdoc-and-point-packages-to-uptech-repo
   flutter_html_audio: 
     git: 
-    url: git@github.com:uptech/flutter_html.git
+      url: git@github.com:uptech/flutter_html.git
+      ref: allow-srcdoc-and-point-packages-to-uptech-repo
       path: packages/flutter_html_audio
-      ref: allow-srcdoc
   flutter_html_iframe: 
-    url: git@github.com:uptech/flutter_html.git
+    git:
+      url: git@github.com:uptech/flutter_html.git
       path: packages/flutter_html_iframe
-      ref: allow-srcdoc
+      ref: allow-srcdoc-and-point-packages-to-uptech-repo
   flutter_html_math: 
-    url: git@github.com:uptech/flutter_html.git
+    git:
+      url: git@github.com:uptech/flutter_html.git
       path: packages/flutter_html_math
-      ref: allow-srcdoc  
+      ref: allow-srcdoc-and-point-packages-to-uptech-repo  
   flutter_html_svg: 
-    url: git@github.com:uptech/flutter_html.git
+    git:
+      url: git@github.com:uptech/flutter_html.git
       path: packages/flutter_html_svg
-      ref: allow-srcdoc  
+      ref: allow-srcdoc-and-point-packages-to-uptech-repo  
   flutter_html_table: 
-    url: git@github.com:uptech/flutter_html.git
+    git:
+      url: git@github.com:uptech/flutter_html.git
       path: packages/flutter_html_table
-      ref: allow-srcdoc  
+      ref: allow-srcdoc-and-point-packages-to-uptech-repo  
   flutter_html_video: 
-    url: git@github.com:uptech/flutter_html.git
+    git:
+      url: git@github.com:uptech/flutter_html.git
       path: packages/flutter_html_video
-      ref: allow-srcdoc
+      ref: allow-srcdoc-and-point-packages-to-uptech-repo
 
 dev_dependencies:
   flutter_test:

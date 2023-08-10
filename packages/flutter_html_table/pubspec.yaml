@@ -16,7 +16,7 @@ dependencies:
   flutter_html: 
     git: 
       url: git@github.com:uptech/flutter_html.git
-      ref: allow-srcdoc
+      ref: allow-srcdoc-and-point-packages-to-uptech-repo
   flutter_layout_grid: '>=1.0.1 <3.0.0'
 
 dev_dependencies:
